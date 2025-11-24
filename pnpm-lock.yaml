@@ -1753,8 +1753,8 @@ importers:
         specifier: 'catalog:'
         version: 7.28.4
       '@base-ui-components/utils':
-        specifier: 0.1.2
-        version: 0.1.2(@types/react@19.2.2)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+        specifier: 0.2.0
+        version: 0.2.0(@types/react@19.2.2)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       '@emotion/react':
         specifier: ^11.9.0
         version: 11.14.0(@types/react@19.2.2)(react@19.2.0)
@@ -1809,8 +1809,8 @@ importers:
         specifier: 'catalog:'
         version: 7.28.4
       '@base-ui-components/utils':
-        specifier: 0.1.2
-        version: 0.1.2(@types/react@19.2.2)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+        specifier: 0.2.0
+        version: 0.2.0(@types/react@19.2.2)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       '@emotion/react':
         specifier: ^11.9.0
         version: 11.14.0(@types/react@19.2.2)(react@19.2.0)
